@@ -7,6 +7,9 @@
 <meta name="description" content="Scopri quanto costa rifare il tetto del condominio. Calcola la stima in 60 secondi e confronta fino a 3 preventivi da imprese edili verificate nella tua zona.">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 <meta name="theme-color" content="#12304A">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="canonical" href="https://preventivotetto.it/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="it_IT">
@@ -257,6 +260,26 @@ footer nav button{background:none;border:0;padding:0;color:#fff;font:inherit;fon
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 </style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HWMD4ZHZHJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HWMD4ZHZHJ');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=114096792', 'ym');
+    ym(114096792, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/114096792" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 </head>
 <body>
 
@@ -390,7 +413,7 @@ footer nav button{background:none;border:0;padding:0;color:#fff;font:inherit;fon
 /* ============ CONFIGURAZIONE PRODUZIONE ============ */
 window.TC_CONFIG = {
   webhookUrl: '/api/lead', // Salvataggio first-party nel database D1 tramite Pages Function.
-  gtmId: ''                // Nessun analytics esterno configurato.
+  gtmId: ''                // measurement tags in <head>
 };
 var VARIANT = 'B';
 </script>
@@ -401,7 +424,7 @@ var VARIANT = 'B';
   var CONFIG = {
     brand: 'PreventivoTetto',
     webhookUrl: '/api/lead',   // endpoint first-party Pages per il salvataggio dei lead
-    gtmId: '',                 // nessun analytics esterno configurato
+    gtmId: '',                 // measurement tags in <head>
     storageKey: 'tc_quiz_v1',
     consentKey: 'tc_consent_v1',
     leadKey: 'tc_lead_sent_v1'
