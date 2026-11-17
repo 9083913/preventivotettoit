@@ -1,0 +1,173 @@
+# PreventivoTetto
+
+> PreventivoTetto (preventivotetto.it) è un servizio di EMIDA SRL (P.IVA 05011210233, Via Vespucci 3, 37011 Bardolino (VR)) che stima il costo dei lavori sul tetto in 60 secondi e mette in contatto privati, proprietari di case singole, villette, bifamiliari e aziende con fino a 3 imprese verificate. Non è un'impresa edile. Area di servizio: Italia.
+
+Sito gemello per condomini: https://tettocondominiale.it/
+
+## Prezzi di riferimento 2026 (netto IVA, modello di calcolo EMIDA SRL; coefficiente regionale 0,90–1,10)
+
+| Voce | Prezzo |
+|---|---|
+| Rifacimento completo con coibentazione | 210–300 €/mq |
+| Solo manto di copertura | 115–170 €/mq |
+| Riparazione localizzata | 2.500–9.000 € (+1.500–4.000 € mezzi di accesso) |
+| Ponteggio | 12–18 €/mq di facciata (12–20 nelle guide) |
+| Bonifica amianto | 45–85 €/mq |
+| Lattonerie | 55–95 €/ml |
+| Linea vita | 3.500–8.000 € |
+| Sicurezza + spese tecniche | 11–14% dei lavori |
+| IVA (manutenzione straordinaria) | 10% |
+
+Sono stime di orientamento, non preventivi né prezzi di cantiere rilevati.
+
+## Come verifichiamo le imprese
+
+DURC regolare, visura camerale, polizza RC in corso di validità, e per l'amianto iscrizione all'Albo Gestori Ambientali (categorie 10A/10B). Ogni richiesta arriva al massimo a 3 imprese.
+
+## Servizi (testo)
+
+### Riparazione tetto: costi 2026, tempi e quando conviene
+URL: https://preventivotetto.it/riparazione-tetto/
+
+Riparare un tetto con tegole rotte o piccole perdite costa in media 2.500–9.000 € di lavori più 1.500–4.000 € di mezzi di accesso (netto IVA). Tempi: 1–3 giorni. Conviene finché il danno è localizzato e il manto ha meno di 25–30 anni; oltre, il rifacimento costa meno nel lungo periodo.
+
+- **Quanto costa riparare poche tegole?** Per interventi minimi il costo è dominato dai mezzi di accesso: nel modello EMIDA 1.500–4.000 € di piattaforma o trabattello, più 2.500–9.000 € per ricerca perdita e ripristino di un intervento tipo.
+- **Si può riparare il tetto con la pioggia?** In emergenza si mettono teli di protezione; il ripristino definitivo si fa con tempo asciutto, e le guaine non vanno posate sotto i 5 °C circa.
+- **La riparazione dà diritto a detrazioni?** Gli interventi di manutenzione straordinaria possono rientrare nelle detrazioni per ristrutturazione; la manutenzione ordinaria sulle singole unità abitative di norma no. Conferma con il commercialista.
+
+### Infiltrazioni dal tetto: come trovarle e quanto costa ripararle
+URL: https://preventivotetto.it/infiltrazioni-tetto/
+
+Un'infiltrazione dal tetto si risolve con ricerca della perdita e ripristino localizzato: 2.500–9.000 € di lavori più 1.500–4.000 € di mezzi di accesso (netto IVA), in 1–3 giorni. Se l'umidità è diffusa o il manto ha oltre 30 anni, conviene valutare il rifacimento. Agire presto evita danni a solai e intonaci.
+
+- **Chi paga i danni di un'infiltrazione in un appartamento sotto il tetto?** Dipende dalla proprietà del tetto: in un condominio il tetto è parte comune, quindi la riparazione è a carico di tutti i condomini; in una casa singola è del proprietario. Per i casi condominiali vedi TettoCondominiale.it.
+- **Quanto tempo ci vuole per trovare la perdita?** Da poche ore a un paio di giorni, a seconda di accessibilità e complessità del tetto; talvolta servono prove di tenuta con acqua.
+- **Posso rimandare la riparazione?** Meglio di no: l'umidità danneggia travi, isolante e intonaci e i costi di ripristino crescono rapidamente.
+
+### Rifacimento tetto completo: costi al mq, tempi e fasi
+URL: https://preventivotetto.it/rifacimento-tetto-completo/
+
+Il rifacimento completo del tetto con coibentazione costa 210–300 €/mq di copertura (netto IVA), a cui si aggiungono ponteggio (12–20 €/mq di facciata), linea vita (3.500–8.000 €), lattonerie e sicurezza. Per una casa di 120 mq il totale ivato è in genere tra 33.500–49.500 €, in 2–4 settimane.
+
+- **Quanto costa rifare il tetto di una villetta di 120 mq?** Con il modello EMIDA 2026 e un ponteggio su circa 200 mq di facciata, il rifacimento completo costa tra 33.500–49.500 € ivato circa (coefficiente regionale 1,00), a seconda della regione e dell'accessibilità.
+- **Quanto durano i lavori?** Per una casa singola da 2 a 4 settimane, in base a superficie, meteo e complessità del tetto.
+- **Serve un permesso edilizio?** Dipende dal comune e dall'intervento: spesso basta una comunicazione, ma modifiche di sagoma o in aree vincolate richiedono titoli più impegnativi. Chiedilo al tecnico incaricato.
+
+### Coibentazione del tetto: costi, spessori e risparmio
+URL: https://preventivotetto.it/coibentazione-tetto/
+
+Coibentare il tetto durante il rifacimento fa salire il costo fino a circa 2 volte il solo manto: 210–300 €/mq contro 115–170 €/mq. In cambio riduce le dispersioni dell'ultimo piano e rispetta i limiti di trasmittanza per zona climatica (0,19–0,27 W/m²K), spesso richiesti per le detrazioni.
+
+- **Quanto isolante serve sul tetto?** Dipende dal materiale e dalla zona climatica: per rispettare 0,20–0,22 W/m²K servono in genere 12–20 cm di isolante. Il tecnico indica lo spessore preciso.
+- **Si può coibentare senza rifare il manto?** Sì, dall'interno o con isolamento tra le travi, ma con rese e costi diversi e senza il vantaggio di condividere ponteggio e smontaggi.
+- **La coibentazione riduce le bollette?** Riduce le dispersioni dell'ultimo piano, soprattutto in zone fredde; il risparmio effettivo dipende da impianto e abitudini.
+
+### Bonifica amianto dal tetto: costi, obblighi e ditte autorizzate
+URL: https://preventivotetto.it/bonifica-amianto-tetto/
+
+La bonifica di una copertura in eternit costa 45–85 €/mq (netto IVA) e va fatta da una ditta iscritta all'Albo Gestori Ambientali, con piano di lavoro notificato all'ASL. È una voce separata dal rifacimento e spesso la più pesante. Se sospetti amianto, non toccare né forare le lastre.
+
+- **Come capisco se il mio tetto è in amianto?** Lastre ondulate grigie in fibrocemento posate prima del 1992 sono sospette. Solo un'analisi di laboratorio su campione prelevato da personale abilitato dà la certezza.
+- **Posso rimuovere io le lastre?** Non è consigliato e in molti casi non è consentito: la rimozione richiede procedure, DPI e smaltimento a norma. Rivolgiti a una ditta iscritta all'Albo.
+- **Esistono incentivi per la bonifica?** Esistono contributi regionali o locali a periodi alterni e, quando la bonifica si abbina al rifacimento, possono applicarsi le detrazioni per ristrutturazione. Verifica i bandi attivi nel tuo comune.
+
+### Rifacimento grondaie e pluviali: costi al metro lineare
+URL: https://preventivotetto.it/rifacimento-grondaie/
+
+Rifare grondaie e pluviali costa in media 55–95 € al metro lineare posato (netto IVA), in base a materiale e accessibilità. Una casa con 40–50 ml di perimetro spende quindi 2.200–4.750 € circa. Conviene farlo insieme al tetto per condividere ponteggio e mezzi.
+
+- **Quanto costano 50 metri di grondaia?** Nel modello EMIDA 2026 tra 2.750 e 4.750 € circa, tra rimozione e posa; il materiale prescelto sposta molto il totale.
+- **Serve il ponteggio per le grondaie?** Per lavori in gronda a quote elevate servono ponteggio o piattaforma: farlo insieme al tetto riduce i costi.
+
+### Linea vita sul tetto: quando è obbligatoria e quanto costa
+URL: https://preventivotetto.it/linea-vita-tetto/
+
+La linea vita (sistema anticaduta permanente) è obbligatoria sulle coperture nuove o rifatte per consentire manutenzioni future in sicurezza, secondo le norme regionali. Costa in genere 3.500–8.000 € per una copertura di casa, comprese progettazione, posa e certificazioni.
+
+- **La linea vita serve anche su un tetto esistente?** Dipende dalle norme regionali e dal tipo di lavoro: se rifai il manto è quasi sempre richiesta; per piccole manutenzioni va valutato caso per caso.
+- **Chi la installa?** Un installatore qualificato che rilascia dichiarazione di corretta posa e certificazioni dei dispositivi.
+
+### Impermeabilizzazione tetto piano e terrazzo: materiali e costi
+URL: https://preventivotetto.it/impermeabilizzazione-tetto-piano/
+
+Impermeabilizzare un tetto piano o un terrazzo costa in genere 115–170 €/mq di copertura (netto IVA), a seconda di guaina, preparazione del supporto e protezione finale. Una guaina bituminosa dura 15–25 anni, una membrana sintetica 20–30: i segni di cedimento sono bolle, crepe e ristagni.
+
+- **Si può impermeabilizzare sopra la vecchia guaina?** Sì in molti casi, previa verifica del supporto: evita costi di smaltimento, ma richiede che la vecchia guaina sia ben aderente.
+- **Quanto dura la posa?** Per un terrazzo di 40–60 mq in genere 2–4 giorni, con meteo asciutto e temperature sopra i 5 °C circa.
+
+## Guide (testo)
+
+### Quanto costa rifare il tetto nel 2026
+URL: https://preventivotetto.it/quanto-costa-rifare-il-tetto/
+
+Rifare il tetto nel 2026 costa 210–300 €/mq con coibentazione e 115–170 €/mq per il solo manto (netto IVA), più ponteggio (12–20 €/mq di facciata), linea vita, lattonerie ed eventuale amianto (45–85 €/mq). Una casa di 120 mq spende 33.500–49.500 € ivato circa.
+
+- **Quanto costa al mq rifare il tetto?** 210–300 €/mq per il rifacimento completo con coibentazione, 115–170 €/mq per il solo manto, netto IVA, da moltiplicare per il coefficiente regionale.
+- **L'IVA sui lavori quanto è?** Il modello usa l'aliquota agevolata del 10% per la manutenzione straordinaria; casi particolari possono avere aliquote diverse: confermale con l'impresa o il commercialista.
+
+### Costo rifacimento tetto di 100 mq: esempio con tutte le voci
+URL: https://preventivotetto.it/costo-rifacimento-tetto-100-mq/
+
+Un tetto di 100 mq costa in media tra 28.500–41.500 € ivato per il rifacimento completo con coibentazione e tra 16.500–25.500 € per il solo manto, ipotizzando 180 mq di facciata da ponteggiare. Il totale varia con regione, accessibilità e amianto.
+
+- **Il costo include il ponteggio?** Sì, nell'esempio il ponteggio è calcolato su circa 180 mq di facciata a 12–18 €/mq con coefficiente regionale.
+- **E se ho l'amianto?** Aggiungi 45–85 €/mq per la bonifica, da confermare con analisi e piano di lavoro ASL.
+
+### Bonus ristrutturazione tetto 2026: cosa si può detrarre
+URL: https://preventivotetto.it/bonus-ristrutturazione-tetto-2026/
+
+Per il tetto si può usare la detrazione per ristrutturazione edilizia (aliquote ridotte rispetto agli anni passati, con differenza tra abitazione principale e altre abitazioni) e, se migliori l'isolamento, l'ecobonus. Servono bonifico parlante, fatture e documenti tecnici. Verifica aliquote e limiti 2026 con l'Agenzia delle Entrate.
+
+- **Si detrae anche solo il manto?** La sostituzione del manto di copertura rientra in genere nella manutenzione straordinaria; verifica i dettagli con il tuo commercialista in base al tuo caso.
+- **Il ponteggio è detraibile?** Le spese accessorie legate ai lavori agevolati, come il ponteggio, rientrano di norma nella spesa detraibile; conferma sempre con un professionista.
+
+### Ponteggio per il tetto: quanto costa e quando è obbligatorio
+URL: https://preventivotetto.it/ponteggio-tetto-costo-obbligo/
+
+Il ponteggio per lavori sul tetto costa 12–20 €/mq di facciata (non di tetto) ed è la regola per il rifacimento completo, in base alle norme di sicurezza sul lavoro (D.Lgs. 81/2008). Per piccole riparazioni si usano piattaforme o trabattelli. L'occupazione di suolo pubblico richiede concessione al Comune.
+
+- **Il ponteggio si può evitare?** Per interventi circoscritti sì, con piattaforma o trabattello; per il rifacimento completo è praticamente la regola.
+- **Chi lo monta?** L'impresa o una ditta specializzata, con piano di montaggio, uso e smontaggio (PiMUS) e verifiche di sicurezza.
+
+### Quanto dura un tetto: durata per materiale e segnali di fine vita
+URL: https://preventivotetto.it/quanto-dura-un-tetto/
+
+Un tetto in tegole o coppi ben posato dura 30–50 anni, una guaina bituminosa 15–25, una membrana sintetica 20–30. Pulire grondaie e colmi ogni anno ne allunga la vita. Macchie di umidità, tegole che scivolano e muffa nel sottotetto sono i segnali che il manto è a fine vita.
+
+- **Ogni quanto controllare il tetto?** Una volta l'anno e dopo eventi intensi come grandine o vento forte, con un'ispezione visiva o con drone se l'accesso è difficile.
+
+### Tetto a falde o tetto piano: quale conviene?
+URL: https://preventivotetto.it/tetto-a-falde-o-tetto-piano/
+
+Il tetto a falde con manto in tegole costa 115–170 €/mq di solo manto e dura 30–50 anni; il tetto piano con guaina costa in media gli stessi importi ma dura 15–25 anni e richiede più manutenzione. Il piano è più sfruttabile come terrazzo, il tetto a falde smaltisce meglio l'acqua.
+
+- **Quale ha meno infiltrazioni?** Il tetto a falde ben realizzato ne soffre meno: i problemi del piano nascono quasi sempre da giunti, bocchettoni e risvolti.
+
+## Prezzi per città (2026, €/mq netto IVA)
+
+| Città | Coeff. | Solo manto | Completo | Ponteggio €/mq facciata |
+|---|---|---|---|---|
+| Milano (MI), zona E | 1.10 | 127–187 | 231–330 | 13–20 |
+| Roma (RM), zona D | 1.00 | 115–170 | 210–300 | 12–18 |
+| Torino (TO), zona E | 1.04 | 120–177 | 218–312 | 12–19 |
+| Napoli (NA), zona C | 0.92 | 106–156 | 193–276 | 11–17 |
+| Bologna (BO), zona E | 1.04 | 120–177 | 218–312 | 12–19 |
+| Firenze (FI), zona D | 1.03 | 118–175 | 216–309 | 12–19 |
+| Genova (GE), zona D | 1.04 | 120–177 | 218–312 | 12–19 |
+| Venezia (VE), zona E | 1.06 | 122–180 | 223–318 | 13–19 |
+| Verona (VR), zona E | 1.06 | 122–180 | 223–318 | 13–19 |
+| Padova (PD), zona E | 1.06 | 122–180 | 223–318 | 13–19 |
+| Brescia (BS), zona E | 1.10 | 127–187 | 231–330 | 13–20 |
+| Bergamo (BG), zona E | 1.10 | 127–187 | 231–330 | 13–20 |
+| Trento (TN), zona F | 1.06 | 122–180 | 223–318 | 13–19 |
+| Bolzano (BZ), zona F | 1.06 | 122–180 | 223–318 | 13–19 |
+| Parma (PR), zona E | 1.04 | 120–177 | 218–312 | 12–19 |
+| Perugia (PG), zona E | 1.00 | 115–170 | 210–300 | 12–18 |
+| Bari (BA), zona C | 0.92 | 106–156 | 193–276 | 11–17 |
+| Palermo (PA), zona B | 0.90 | 104–153 | 189–270 | 11–16 |
+| Catania (CT), zona B | 0.90 | 104–153 | 189–270 | 11–16 |
+| Cagliari (CA), zona C | 1.00 | 115–170 | 210–300 | 12–18 |
+
+## Riferimenti normativi citati
+
+D.Lgs. 81/2008; DM 26/06/2015 (requisiti minimi di efficienza energetica); UNI EN 795 e UNI 11560 (linea vita); detrazioni per ristrutturazione ed ecobonus (verificare aliquote annuali).

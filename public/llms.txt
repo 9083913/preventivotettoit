@@ -1,0 +1,78 @@
+# PreventivoTetto
+
+> PreventivoTetto (preventivotetto.it) è un servizio di EMIDA SRL (P.IVA 05011210233, Via Vespucci 3, 37011 Bardolino (VR)) che stima il costo dei lavori sul tetto in 60 secondi e mette in contatto privati, proprietari di case singole, villette, bifamiliari e aziende con fino a 3 imprese verificate. Non è un'impresa edile. Area di servizio: Italia.
+
+Sito gemello per condomini: https://tettocondominiale.it/
+
+## Prezzi di riferimento 2026 (netto IVA, modello di calcolo EMIDA SRL; coefficiente regionale 0,90–1,10)
+
+| Voce | Prezzo |
+|---|---|
+| Rifacimento completo con coibentazione | 210–300 €/mq |
+| Solo manto di copertura | 115–170 €/mq |
+| Riparazione localizzata | 2.500–9.000 € (+1.500–4.000 € mezzi di accesso) |
+| Ponteggio | 12–18 €/mq di facciata (12–20 nelle guide) |
+| Bonifica amianto | 45–85 €/mq |
+| Lattonerie | 55–95 €/ml |
+| Linea vita | 3.500–8.000 € |
+| Sicurezza + spese tecniche | 11–14% dei lavori |
+| IVA (manutenzione straordinaria) | 10% |
+
+Sono stime di orientamento, non preventivi né prezzi di cantiere rilevati.
+
+## Come verifichiamo le imprese
+
+DURC regolare, visura camerale, polizza RC in corso di validità, e per l'amianto iscrizione all'Albo Gestori Ambientali (categorie 10A/10B). Ogni richiesta arriva al massimo a 3 imprese.
+
+## Pagine principali
+
+- [Home e calcolatore](https://preventivotetto.it/)
+- [Osservatorio prezzi tetti 2026](https://preventivotetto.it/osservatorio-prezzi-tetti-2026/)
+- [Metodologia prezzi](https://preventivotetto.it/metodologia-prezzi/)
+- [Chi siamo](https://preventivotetto.it/chi-siamo/)
+- [Come verifichiamo le imprese](https://preventivotetto.it/come-verifichiamo-le-imprese/)
+- [Contatti](https://preventivotetto.it/contatti/)
+- [Zone servite](https://preventivotetto.it/zone-servite/)
+
+## Servizi
+
+- [Riparazione tetto: costi 2026, tempi e quando conviene](https://preventivotetto.it/riparazione-tetto/): Riparare un tetto con tegole rotte o piccole perdite costa in media 2.500–9.000 € di lavori più 1.500–4.000 € di mezzi di accesso (netto IVA). Tempi: 1–3…
+- [Infiltrazioni dal tetto: come trovarle e quanto costa ripararle](https://preventivotetto.it/infiltrazioni-tetto/): Un'infiltrazione dal tetto si risolve con ricerca della perdita e ripristino localizzato: 2.500–9.000 € di lavori più 1.500–4.000 € di mezzi di accesso (netto…
+- [Rifacimento tetto completo: costi al mq, tempi e fasi](https://preventivotetto.it/rifacimento-tetto-completo/): Il rifacimento completo del tetto con coibentazione costa 210–300 €/mq di copertura (netto IVA), a cui si aggiungono ponteggio (12–20 €/mq di facciata), linea…
+- [Coibentazione del tetto: costi, spessori e risparmio](https://preventivotetto.it/coibentazione-tetto/): Coibentare il tetto durante il rifacimento fa salire il costo fino a circa 2 volte il solo manto: 210–300 €/mq contro 115–170 €/mq. In cambio riduce le…
+- [Bonifica amianto dal tetto: costi, obblighi e ditte autorizzate](https://preventivotetto.it/bonifica-amianto-tetto/): La bonifica di una copertura in eternit costa 45–85 €/mq (netto IVA) e va fatta da una ditta iscritta all'Albo Gestori Ambientali, con piano di lavoro…
+- [Rifacimento grondaie e pluviali: costi al metro lineare](https://preventivotetto.it/rifacimento-grondaie/): Rifare grondaie e pluviali costa in media 55–95 € al metro lineare posato (netto IVA), in base a materiale e accessibilità. Una casa con 40–50 ml di perimetro…
+- [Linea vita sul tetto: quando è obbligatoria e quanto costa](https://preventivotetto.it/linea-vita-tetto/): La linea vita (sistema anticaduta permanente) è obbligatoria sulle coperture nuove o rifatte per consentire manutenzioni future in sicurezza, secondo le norme…
+- [Impermeabilizzazione tetto piano e terrazzo: materiali e costi](https://preventivotetto.it/impermeabilizzazione-tetto-piano/): Impermeabilizzare un tetto piano o un terrazzo costa in genere 115–170 €/mq di copertura (netto IVA), a seconda di guaina, preparazione del supporto e…
+
+## Guide
+
+- [Quanto costa rifare il tetto nel 2026](https://preventivotetto.it/quanto-costa-rifare-il-tetto/)
+- [Costo rifacimento tetto di 100 mq: esempio con tutte le voci](https://preventivotetto.it/costo-rifacimento-tetto-100-mq/)
+- [Bonus ristrutturazione tetto 2026: cosa si può detrarre](https://preventivotetto.it/bonus-ristrutturazione-tetto-2026/)
+- [Ponteggio per il tetto: quanto costa e quando è obbligatorio](https://preventivotetto.it/ponteggio-tetto-costo-obbligo/)
+- [Quanto dura un tetto: durata per materiale e segnali di fine vita](https://preventivotetto.it/quanto-dura-un-tetto/)
+- [Tetto a falde o tetto piano: quale conviene?](https://preventivotetto.it/tetto-a-falde-o-tetto-piano/)
+
+## Città
+
+- [Rifacimento tetto Milano](https://preventivotetto.it/rifacimento-tetto-milano/)
+- [Rifacimento tetto Roma](https://preventivotetto.it/rifacimento-tetto-roma/)
+- [Rifacimento tetto Torino](https://preventivotetto.it/rifacimento-tetto-torino/)
+- [Rifacimento tetto Napoli](https://preventivotetto.it/rifacimento-tetto-napoli/)
+- [Rifacimento tetto Bologna](https://preventivotetto.it/rifacimento-tetto-bologna/)
+- [Rifacimento tetto Firenze](https://preventivotetto.it/rifacimento-tetto-firenze/)
+- [Rifacimento tetto Genova](https://preventivotetto.it/rifacimento-tetto-genova/)
+- [Rifacimento tetto Venezia](https://preventivotetto.it/rifacimento-tetto-venezia/)
+- [Rifacimento tetto Verona](https://preventivotetto.it/rifacimento-tetto-verona/)
+- [Rifacimento tetto Padova](https://preventivotetto.it/rifacimento-tetto-padova/)
+- [Rifacimento tetto Brescia](https://preventivotetto.it/rifacimento-tetto-brescia/)
+- [Rifacimento tetto Bergamo](https://preventivotetto.it/rifacimento-tetto-bergamo/)
+- [Rifacimento tetto Trento](https://preventivotetto.it/rifacimento-tetto-trento/)
+- [Rifacimento tetto Bolzano](https://preventivotetto.it/rifacimento-tetto-bolzano/)
+- [Rifacimento tetto Parma](https://preventivotetto.it/rifacimento-tetto-parma/)
+- [Rifacimento tetto Perugia](https://preventivotetto.it/rifacimento-tetto-perugia/)
+- [Rifacimento tetto Bari](https://preventivotetto.it/rifacimento-tetto-bari/)
+- [Rifacimento tetto Palermo](https://preventivotetto.it/rifacimento-tetto-palermo/)
+- [Rifacimento tetto Catania](https://preventivotetto.it/rifacimento-tetto-catania/)
+- [Rifacimento tetto Cagliari](https://preventivotetto.it/rifacimento-tetto-cagliari/)
