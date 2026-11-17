@@ -699,7 +699,34 @@ var VARIANT = 'B';
   }
   function onConsent(f) { listeners.push(f); }
   var trackersLoaded = false;
+  // Umami è facoltativo: caricare solo dopo consenso statistico; niente auto-eventi.
+  var umamiScriptRequested = false;
+  function statisticsConsent() {
+    try { var c = JSON.parse(localStorage.getItem(CONFIG.consentKey) || 'null'); return !!(c && c.statistiche === true); }
+    catch (e) { return false; }
+  }
+  function loadUmami() {
+    if (!statisticsConsent() || umamiScriptRequested) return;
+    umamiScriptRequested = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://analytics.buclis.com:8443/script.js';
+    s.setAttribute('data-website-id', '2da6a326-bc03-4aa6-ab3b-ebdde21f8bed');
+    s.setAttribute('data-auto-track', 'false');
+    s.setAttribute('data-auto-pageview', 'false');
+    s.onload = function () {
+      if (!statisticsConsent() || !window.umami || typeof window.umami.track !== 'function') return;
+      var originalTrack = window.umami.track;
+      window.umami.track = function () {
+        if (!statisticsConsent()) return;
+        return originalTrack.apply(window.umami, arguments);
+      };
+      if (statisticsConsent()) window.umami.track('consent_opt_in');
+    };
+    document.head.appendChild(s);
+  }
   function loadTrackers(c) {
+    if (c && c.statistiche === true) loadUmami();
     if (trackersLoaded || !c || !(c.statistiche || c.marketing)) return;
     trackersLoaded = true;
     window.dataLayer = window.dataLayer || [];
@@ -709,6 +736,7 @@ var VARIANT = 'B';
       s.src = 'https://www.googletagmanager.com/gtm.js?id=' + CONFIG.gtmId; document.head.appendChild(s);
     }
   }
+  // La homepage ospita il CMP. Le altre pagine restano senza tracker: non hanno CMP.
   loadTrackers(getConsent());
   function track(event, params) {
     var c = getConsent();
